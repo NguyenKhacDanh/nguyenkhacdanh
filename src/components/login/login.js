@@ -29,7 +29,7 @@ const Login = () => {
                             layout The point of  using Lorem Ipsum is that it has a more-or-less normal
                             distribution of letters,</p>
                     </div>
-                    <div className='icon flex justify-center lg:justify-start md:justify-start xl:justify-start '>
+                    <div className='icon flex justify-center lg:justify-start md:justify-start xl:justify-start  '>
                         {
                             <>
                                 <div className='Facebook'>
@@ -50,7 +50,7 @@ const Login = () => {
                     </div>
                 </div>
             </div>
-            <div className='formLogin  p-10 bg-white flex flex-col lg:h-3/4 relative'>
+            <div className='formLogin  p-10 bg-white flex flex-col lg:h-3/4 relative rounded-r-2xl'>
                 <p className='text-black text-3xl font-bold mt-5'>
                     Sign in
                 </p>
